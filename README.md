@@ -1,1 +1,1 @@
-# Intersection-Explorer-Vanced
+# Intersection Explorer Vanced
